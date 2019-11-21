@@ -1,0 +1,45 @@
+name:
+Steak and Mushroom
+price:
+8.95
+ingredients:
+Beef Steak
+Mushrooms (vv)
+Suet Pastry
+Beef Stock
+
+name:
+Leek and Cheese
+price:
+7.95
+ingredients:
+Leek (vv)
+Chedar (v)
+Stilton (v)
+Cream (v)
+
+name:
+Faux Steak
+price:
+7.95
+ingredients:
+Quorn (vv)
+Mushroom (vv)
+Soy Sauce (vv)
+
+name:
+Chicken Steak
+price:
+6.66
+ingredients:
+Chicken
+Mushroom(vv)
+Soy Sauce (vv)
+
+name:
+Strawberry Jam
+price:
+5.22
+ingredients:
+Strawberry(vv)
+Cream(v)
